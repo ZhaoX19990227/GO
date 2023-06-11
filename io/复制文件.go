@@ -76,7 +76,3 @@ func copy3(srcFile, destFile string) (int, error) {
 	}
 	return len(bs), nil
 }
-
-//test
-
-//123456789
